@@ -20,6 +20,13 @@ h1{
 
 }
 
+h3{
+	font-size: 3rem;
+	color: #ffffff;
+	text-align: center;
+
+}
+
 hr{
 	border-width: 3px;
 	max-width: 65px;
